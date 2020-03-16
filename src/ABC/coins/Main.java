@@ -1,4 +1,4 @@
-package coins;
+package ABC.coins;
 
 import java.util.Scanner;
 

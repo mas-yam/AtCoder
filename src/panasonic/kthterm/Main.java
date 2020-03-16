@@ -1,4 +1,4 @@
-package kthterm;
+package panasonic.kthterm;
 
 import java.util.Scanner;
 

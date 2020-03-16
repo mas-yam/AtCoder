@@ -1,4 +1,4 @@
-package somesums;
+package ABC.somesums;
 
 import java.util.ArrayList;
 import java.util.List;

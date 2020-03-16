@@ -1,4 +1,4 @@
-package sqrtinequality;
+package panasonic.sqrtinequality;
 
 import java.util.Scanner;
 
