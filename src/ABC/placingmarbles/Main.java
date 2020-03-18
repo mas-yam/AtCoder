@@ -1,4 +1,4 @@
-package ABC.placingmarbles;
+package abc.placingmarbles;
 
 import java.util.Scanner;
 

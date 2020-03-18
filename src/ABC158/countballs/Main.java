@@ -1,4 +1,4 @@
-package ABC158.countballs;
+package abc158.countballs;
 
 import java.util.Scanner;
 

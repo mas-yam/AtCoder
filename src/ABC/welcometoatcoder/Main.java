@@ -1,4 +1,4 @@
-package ABC.welcometoatcoder;
+package abc.welcometoatcoder;
 
 import java.util.Scanner;
 

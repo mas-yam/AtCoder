@@ -1,4 +1,4 @@
-package ABC158.stationandbus;
+package abc158.stationandbus;
 
 import java.util.Scanner;
 

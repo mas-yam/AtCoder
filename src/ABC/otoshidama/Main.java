@@ -1,4 +1,4 @@
-package ABC.otoshidama;
+package abc.otoshidama;
 
 import java.util.ArrayList;
 import java.util.List;

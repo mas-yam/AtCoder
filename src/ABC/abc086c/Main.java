@@ -1,4 +1,4 @@
-package ABC.abc086c;
+package abc.abc086c;
 
 import java.util.Scanner;
 

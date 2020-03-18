@@ -1,4 +1,4 @@
-package ABC.product;
+package abc.product;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package ABC.cardgamefortwo;
+package abc.cardgamefortwo;
 
 import java.util.ArrayList;
 import java.util.Arrays;

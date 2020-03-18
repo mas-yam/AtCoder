@@ -1,4 +1,4 @@
-package ABC.kagamimochi;
+package abc.kagamimochi;
 
 import java.util.Comparator;
 import java.util.Scanner;

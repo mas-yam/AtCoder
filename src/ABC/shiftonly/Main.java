@@ -1,4 +1,4 @@
-package ABC.shiftonly;
+package abc.shiftonly;
 
 import java.util.Arrays;
 import java.util.List;

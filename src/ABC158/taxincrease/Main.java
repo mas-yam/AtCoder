@@ -1,4 +1,4 @@
-package ABC158.taxincrease;
+package abc158.taxincrease;
 
 import java.util.Scanner;
 
