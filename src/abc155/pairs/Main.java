@@ -43,6 +43,10 @@ public class Main {
 			System.out.println(0);
 		} else {
 			long K1 = K - lessThanOne;
+
+			for (Integer integer : plus) {
+
+			}
 			System.out.println("more");
 		}
 	}
